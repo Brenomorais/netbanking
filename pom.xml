@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.brenomorais</groupId>
-	<artifactId>cobranca</artifactId>
+	<artifactId>netbanking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>cobranca</name>
-	<description>Sistema De Cobrança</description>
+	<name>netbanking</name>
+	<description>Sistema de Gerenciamento bancario</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
